@@ -1,0 +1,22 @@
+{
+  "manifestVersion": 1,
+  "id": "rem-locker",
+  "name": "Rem Locker",
+  "author": "Farhad",
+  "repoUrl": "https://github.com/farhad/rem-locker",
+  "version": {
+    "major": 0,
+    "minor": 1,
+    "patch": 0
+  },
+  "theme": [],
+  "enableOnMobile": true,
+  "description": "A plugin made to restrict RemNote features when viewing notes in a purchased situation. This turns off Community, Exporting Documents, and Sharing Documents.",
+  "requestNative": true,
+  "requiredScopes": [
+    {
+      "type": "All",
+      "level": "ReadCreateModifyDelete"
+    }
+  ]
+}
